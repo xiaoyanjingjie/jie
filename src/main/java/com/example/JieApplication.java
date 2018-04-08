@@ -9,6 +9,6 @@ package com.example;
 public class JieApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JieApplication.class, args);
+		SpringApplication.run(JieApplication.class, args);//dddd
 	}
 }
